@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  ARGame
 //
-//  Created by Alojz on 2023/5/31.
+//  Created by Alojz Holubek on 2023/5/31.
 //
 
 import SwiftUI
